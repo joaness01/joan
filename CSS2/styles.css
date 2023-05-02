@@ -1,0 +1,13 @@
+body{
+  background-color: burlywood;
+}
+h1{
+  border-style: double;
+  border-color:brown;
+  margin:10px 20px
+  padding:20px 15px;
+  max-width:500px;
+  text-align: center;
+  text-shadow: 2px 2px brown;
+  color: black;
+}
