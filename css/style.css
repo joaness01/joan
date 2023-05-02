@@ -1,5 +1,6 @@
 body{
   background-image:url("images (6).jpeg");
+opacity: 0.3PX;
   background-color:white;
   color:white;
 text-align:center;
@@ -10,6 +11,7 @@ text-align:left;
 padding:20px;
 border:2px solid blue;
 border-radius:10px;
+text-shadow: 2px 2px blue;
 }
 input{
   padding:5px;
@@ -35,5 +37,9 @@ input[type="submit"] {
 h1{
   padding: 10px 10px 10px 10px;
   margin:4px auto black;
-  border:10px
+  border:10px;
+  text-shadow: 2px 2px blue;
+}
+p{
+  text-shadow: 2px 2px red;
 }
